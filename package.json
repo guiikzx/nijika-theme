@@ -1,0 +1,21 @@
+{
+  "name": "nijika",
+  "displayName": "Nijika",
+  "description": "a simple dark theme with soft colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.140.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Guilherme N.",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nijika-color-theme.json"
+      }
+    ]
+  }
+}
