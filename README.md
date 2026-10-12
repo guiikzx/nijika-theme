@@ -1,5 +1,3 @@
-# nijika README
-
 ## Nijika Theme (for vscode)
 
 
