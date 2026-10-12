@@ -2,7 +2,7 @@
   "name": "nijika",
   "displayName": "Nijika",
   "description": "a simple dark theme with soft colors.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.140.0"
   },
