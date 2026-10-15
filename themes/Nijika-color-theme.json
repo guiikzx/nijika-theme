@@ -321,7 +321,7 @@
           "string.quoted.single.scss"
         ],
         "settings": {
-          "foreground": "#A7A8AF"
+          "foreground": "#f5f8a4"
         }
       },
       {
@@ -541,7 +541,7 @@
           "support.function"
         ],
         "settings": {
-          "foreground": "#BBB6D8"
+          "foreground": "#f7ebba"
         }
       },
       {
