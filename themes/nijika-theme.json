@@ -27,13 +27,13 @@
         "ghost_element.active": "#454a56ff",
         "ghost_element.selected": "#454a56ff",
         "ghost_element.disabled": "#2e343eff",
-        "text": "#dce0e5ff",
-        "text.muted": "#a9afbcff",
+        "text": "#FFFFFFFF",
+        "text.muted": "#FFFFFFE3",
         "text.placeholder": "#878a98ff",
         "text.disabled": "#878a98ff",
         "text.accent": "#74ade8ff",
-        "icon": "#dce0e5ff",
-        "icon.muted": "#a9afbcff",
+        "icon": "#FFFFFFFF",
+        "icon.muted": "#FFFFFFE3",
         "icon.disabled": "#878a98ff",
         "icon.placeholder": "#a9afbcff",
         "icon.accent": "#74ade8ff",
@@ -58,7 +58,7 @@
         "editor.background": "#141414FF",
         "editor.gutter.background": "#141414FF",
         "editor.subheader.background": "#141414FF",
-        "editor.active_line.background": "#2f343ebf",
+        "editor.active_line.background": "#3E3E2F3B",
         "editor.highlighted_line.background": "#141414FF",
         "editor.line_number": "#4e5a5f",
         "editor.active_line_number": "#d0d4da",
@@ -148,7 +148,7 @@
         "warning.border": "#5d4c2fff",
         "players": [
           {
-            "cursor": "#74ade8ff",
+            "cursor": "#E6E874FF",
             "background": "#74ade8ff",
             "selection": "#74ade83d"
           },
@@ -437,5 +437,5 @@
     }
   ],
   "isUserGenerated": true,
-  "description": "a simple dark theme with soft colors."
+  "description": "a simple dark theme with soft colors for zed."
 }
