@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  a simple dark theme with soft colors for zed.<br/>
+  a simple dark theme with soft colors.<br/>
   <br/>
   <b>work in progress...</b>
 </div>
