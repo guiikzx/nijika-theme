@@ -1,0 +1,7 @@
+id = "nijika-theme"
+name = "Nijika Theme"
+version = "0.0.5"
+schema_version = 1
+authors = ["guiikzx"]
+description = "a simple dark theme with soft colors."
+repository = "https://github.com/guiikzx/nijika-theme"
